@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Urvashi2311
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning new Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️
 - 📫 How to reach me https://www.linkedin.com/in/urvashi-goswami/
 
 <!---
